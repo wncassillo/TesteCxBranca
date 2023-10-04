@@ -41,3 +41,8 @@ Um ponto a ser salientado é que em momento algum do código as conexões criada
 
 ## Grafo de Fluxo
 <img src="img/TQS-GrafoFluxo.JPG">
+
+## Complexidade ciclomática 
+WIP
+## Caminhos
+WIP
