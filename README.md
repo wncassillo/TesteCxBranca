@@ -38,3 +38,6 @@ O código apresentado não parece ter uma organização bem definida, o que atra
 Um ponto a ser salientado é que em momento algum do código as conexões criadas com o banco de dados são encerradas, o que configura um risco para a segurança do projeto, além de um gasto desnecessário de recursos da máquina.
 
 # ETAPA 2
+
+## Grafo de Fluxo
+<img src="img/TQS-GrafoFluxo.JPG">
