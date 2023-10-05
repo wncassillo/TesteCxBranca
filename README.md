@@ -43,7 +43,11 @@ Um ponto a ser salientado é que em momento algum do código as conexões criada
 <img src="img/GrafoFluxoTQS.JPG">
 
 ## Complexidade ciclomática 
-WIP
+- CC = (Arestas - Nós) + 2
+- (14 - 13) + 2
+- (1) + 2
+- Complexidade Ciclomática = 3
+
 ## Caminhos
 ### Os caminhos possíveis são:
 - Caminho 1 = 1; 2; 3; 4; 13.
