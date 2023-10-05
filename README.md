@@ -40,7 +40,7 @@ Um ponto a ser salientado é que em momento algum do código as conexões criada
 # ETAPA 2
 
 ## Grafo de Fluxo
-<img src="img/TQS-GrafoFluxo.JPG">
+<img src="img/GrafoFluxoTQS.JPG">
 
 ## Complexidade ciclomática 
 WIP
