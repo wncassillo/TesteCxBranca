@@ -45,4 +45,7 @@ Um ponto a ser salientado é que em momento algum do código as conexões criada
 ## Complexidade ciclomática 
 WIP
 ## Caminhos
-WIP
+### Os caminhos possíveis são:
+- Caminho 1 = 1; 2; 3; 4; 13.
+- Caminho 2 = 1; 2; 3; 5; 6; 7; 8; 9; 13.
+- Caminho 3 = 1; 2; 3; 5; 6; 7; 8; 10; 11; 12; 13.
